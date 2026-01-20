@@ -90,7 +90,7 @@ const Index = () => {
         <div className="container max-w-6xl mx-auto px-4">
           <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
             <p>Built with React, TypeScript, Tailwind, shadcn/ui</p>
-            <p>© 2024 Humam Al Rubaye</p>
+            <p>© 2026 Humam Al Rubaye</p>
           </div>
         </div>
       </footer>
